@@ -1,0 +1,35 @@
+.s1{color:blue;
+    font-size:100px;
+    text-decoration: underline;
+    background-color: black;
+
+}
+#id-s2{
+    color: orange;
+}
+.s2{
+    color: blueviolet;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: line-through;
+    background-color: brown;
+}
+#id-h1{
+    color: red;
+    display:flex;
+    font-size: 100px;
+
+}
+
+.header{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.logo-box{
+    width: 10px;
+    display: flex;
+    justify-self: center;
+}
